@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f3cae8bd-d53b-4450-8f44-1531128dfb45" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Yo43hDfiOxxSuCUWnjn8e2SlAM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cl.talentodigital.series.Main" />
+      <module name="Series" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cl.talentodigital.series.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3cae8bd-d53b-4450-8f44-1531128dfb45" name="Default Changelist" comment="" />
+      <created>1583595415288</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583595415288</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="525" y="149" key="#com.intellij.ide.util.MemberChooser" timestamp="1583595577607">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="525" y="149" key="#com.intellij.ide.util.MemberChooser/0.0.1440.860@0.0.1440.860" timestamp="1583595577607" />
+    <state width="1440" height="240" key="GridCell.Tab.0.bottom" timestamp="1583599221577">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1440" height="240" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1583599074877">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1440" height="240" key="GridCell.Tab.0.bottom.inPresentationMode/0.0.1440.860@0.0.1440.860" timestamp="1583599074877" />
+    <state width="1440" height="240" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1583599221577" />
+    <state width="1440" height="240" key="GridCell.Tab.0.center" timestamp="1583599221577">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1440" height="240" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1583599074877">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1440" height="240" key="GridCell.Tab.0.center.inPresentationMode/0.0.1440.860@0.0.1440.860" timestamp="1583599074877" />
+    <state width="1440" height="240" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1583599221577" />
+    <state width="1440" height="240" key="GridCell.Tab.0.left" timestamp="1583599221577">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1440" height="240" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1583599074877">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1440" height="240" key="GridCell.Tab.0.left.inPresentationMode/0.0.1440.860@0.0.1440.860" timestamp="1583599074877" />
+    <state width="1440" height="240" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1583599221577" />
+    <state width="1440" height="240" key="GridCell.Tab.0.right" timestamp="1583599221577">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1440" height="240" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1583599074877">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1440" height="240" key="GridCell.Tab.0.right.inPresentationMode/0.0.1440.860@0.0.1440.860" timestamp="1583599074877" />
+    <state width="1440" height="240" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1583599221577" />
+    <state width="1397" height="451" key="GridCell.Tab.1.bottom" timestamp="1583596175663">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1440" height="511" key="GridCell.Tab.1.bottom.inPresentationMode" timestamp="1583599050553">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1440" height="511" key="GridCell.Tab.1.bottom.inPresentationMode/0.0.1440.860@0.0.1440.860" timestamp="1583599050553" />
+    <state width="1397" height="451" key="GridCell.Tab.1.bottom/0.0.1440.860@0.0.1440.860" timestamp="1583596175663" />
+    <state width="1397" height="451" key="GridCell.Tab.1.center" timestamp="1583596175663">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1440" height="511" key="GridCell.Tab.1.center.inPresentationMode" timestamp="1583599050553">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1440" height="511" key="GridCell.Tab.1.center.inPresentationMode/0.0.1440.860@0.0.1440.860" timestamp="1583599050553" />
+    <state width="1397" height="451" key="GridCell.Tab.1.center/0.0.1440.860@0.0.1440.860" timestamp="1583596175663" />
+    <state width="1397" height="451" key="GridCell.Tab.1.left" timestamp="1583596175663">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1440" height="511" key="GridCell.Tab.1.left.inPresentationMode" timestamp="1583599050553">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1440" height="511" key="GridCell.Tab.1.left.inPresentationMode/0.0.1440.860@0.0.1440.860" timestamp="1583599050553" />
+    <state width="1397" height="451" key="GridCell.Tab.1.left/0.0.1440.860@0.0.1440.860" timestamp="1583596175663" />
+    <state width="1397" height="451" key="GridCell.Tab.1.right" timestamp="1583596175663">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1440" height="511" key="GridCell.Tab.1.right.inPresentationMode" timestamp="1583599050553">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1440" height="511" key="GridCell.Tab.1.right.inPresentationMode/0.0.1440.860@0.0.1440.860" timestamp="1583599050553" />
+    <state width="1397" height="451" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1583596175663" />
+    <state x="0" y="0" width="1174" height="860" key="find.popup.inPresentationMode" timestamp="1583598922161">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="0" y="0" width="1174" height="860" key="find.popup.inPresentationMode/0.0.1440.860@0.0.1440.860" timestamp="1583598922161" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cl/talentodigital/series/Series.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cl/talentodigital/series/Series.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cl/talentodigital/series/Series.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cl/talentodigital/series/Series.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cl/talentodigital/series/Main.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cl/talentodigital/series/Main.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cl/talentodigital/series/Series.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cl/talentodigital/series/Series.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cl/talentodigital/series/Series.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cl/talentodigital/series/Series.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
